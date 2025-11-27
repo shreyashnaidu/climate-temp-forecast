@@ -56,8 +56,6 @@ This project creates a robust forecasting system using historical temperature an
 ## 📊 Dataset  
 The dataset includes annual global temperature anomalies from 1850 to 2024.
 
-### Columns
-
 ### Summary
 - **Years:** 1850–2024  
 - **Samples:** 175  
@@ -238,3 +236,4 @@ results/figures/
 -Dr. Wei-Bang Chen
 -NASA GISTEMP
 -Scikit-learn developers
+
