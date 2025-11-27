@@ -7,10 +7,6 @@ Using data from **1850–2024**, it achieves strong predictive performance and g
 ---
 
 ## 👥 Team Members
-- **Abhi Jonnalagadda**
-- **Abhishek Harish Thumar**
-- **Dilip Bukkambudhi Ganesh**
-- **Kyle Lobo**
 - **Shreyash Naidu Mamidi**
 
 **Institution:** Virginia Commonwealth University  
@@ -61,3 +57,4 @@ This project creates a robust forecasting system using historical temperature an
 The dataset includes annual global temperature anomalies from 1850 to 2024.
 
 ### Columns
+
