@@ -12,7 +12,7 @@ Using data from **1850–2024**, it achieves strong predictive performance and g
 - **Jyothsna Anne**
 - **Chamundeshwari Batti**
 - **Abhinav Sai Ratan Attemla**
-- **Ritvik Subramanyam tolety **
+- **Ritvik Subramanyam tolety**
 - **Gayathri Thota**
 
 **Institution:** Virginia Commonwealth University  
@@ -242,6 +242,7 @@ results/figures/
 -Dr. Wei-Bang Chen
 -NASA GISTEMP
 -Scikit-learn developers
+
 
 
 
