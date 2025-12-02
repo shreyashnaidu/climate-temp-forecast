@@ -14,7 +14,7 @@ Using data from **1850–2024**, it achieves strong predictive performance and g
 - **Abhinav Sai Ratan Attemla**
 - **Ritvik Subramanyam tolety **
 - **Gayathri Thota**
-- 
+
 **Institution:** Virginia Commonwealth University  
 **Course:** CMSC 535 Introduction to Data Science
 **Instructor:** Dr. Thomas W Gyeera  
@@ -242,5 +242,6 @@ results/figures/
 -Dr. Wei-Bang Chen
 -NASA GISTEMP
 -Scikit-learn developers
+
 
 
