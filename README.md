@@ -8,10 +8,16 @@ Using data from **1850–2024**, it achieves strong predictive performance and g
 
 ## 👥 Team Members
 - **Shreyash Naidu Mamidi**
-
+- **Aneesh Reddy Koppurapu**
+- **Jyothsna Anne**
+- **Chamundeshwari Batti**
+- **Abhinav Sai Ratan Attemla**
+- **Ritvik Subramanyam tolety **
+- **Gayathri Thota**
+- 
 **Institution:** Virginia Commonwealth University  
-**Course:** CMSC 630 – Image Analysis  
-**Instructor:** Dr. Wei-Bang Chen  
+**Course:** CMSC 535 Introduction to Data Science
+**Instructor:** Dr. Thomas W Gyeera  
 **Semester:** Fall 2025
 
 ---
@@ -236,4 +242,5 @@ results/figures/
 -Dr. Wei-Bang Chen
 -NASA GISTEMP
 -Scikit-learn developers
+
 
